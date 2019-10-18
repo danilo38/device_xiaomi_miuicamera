@@ -5,7 +5,7 @@
     <!--whether the device is xiaomi-->
     <bool name="is_xiaomi">true</bool>
     <!--whether the device is hongmi-->
-    <bool name="is_hongmi">treu</bool>
+    <bool name="is_hongmi">true</bool>
     <!--whether the device support alpha optimized-->
     <bool name="support_alpha_optimized">true</bool>
     <!--whether the device supports torch-->
