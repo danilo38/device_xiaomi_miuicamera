@@ -404,7 +404,7 @@
 	<!--whether enable face detection in video and funmode or not-->
     <bool name="support_camera_video_face_detection">true</bool>
 	<!--hide hht menu-->
-    <bool name="is_camera_hide_hht_menu">true</bool>
+    <bool name="is_camera_hide_hht_menu">false</bool>
 	 <!-- whether camera support lens dirty detect-->
     <bool name="support_lens_dirty_detect">true</bool>
 	<!-- whether support double tap to wake up device -->
